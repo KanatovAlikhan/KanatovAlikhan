@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Programmer
 ----------
-![Fushi.gif…]()
+![a]()
 
 Now I am a student and doing my own way to become a good programmer
 
